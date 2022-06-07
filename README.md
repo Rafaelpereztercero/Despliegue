@@ -9,22 +9,33 @@
 
 #### A CONTINUACIOÓN, NOS CONECTAMOS POR SSH
 <code>user@ip</code>
+
 ![image](https://user-images.githubusercontent.com/91564342/172449344-d331749c-a3ea-430d-898e-d9e6208bf749.png)
+
 ## 2.0 .yml
-EN MI CASO, SOLO NECESITO EMPLEAR MYSQL Y TOMCAT PARA EL CORRECTO DESPLIEGUE DE LA APLICACION
+
+#### EN MI CASO, SOLO NECESITO EMPLEAR MYSQL Y TOMCAT PARA EL CORRECTO DESPLIEGUE DE LA APLICACION
 ![image](https://user-images.githubusercontent.com/91564342/172461128-6f93c89c-f78b-499f-b076-f9a62a82f691.png)
+
+#### PODEMOS APRECIAR QUE EL ARCHIVO SE HA CREADO
 ![image](https://user-images.githubusercontent.com/91564342/172461784-76954582-2974-4578-940c-5466c6913185.png)
 
 ## 2.1 SUBIR LA IMAGEN
 
 #### PRIMERAMENTE NOS LOGUEAMOS CON <code>dcoker login</code>
+
 ![image](https://user-images.githubusercontent.com/91564342/172463326-72956535-aab3-4276-952f-5e5f8e7240c0.png)
+
+#### AÑADIMOS LOS TAGS 
+
+![image](https://user-images.githubusercontent.com/91564342/172465005-aa63b39b-e978-4eaf-88f3-575ca6c6546a.png)
+
 
 ## 3.0 TECNOLOGIAS
 
 ### LAS TECONOLOGIAS OPTADAS PARA EL LANZAMIENTO DEL PROYECTO SON LAS SIGUIENTES:
 
-#### TOMCAT : VISTA HTML + JAVA
+#### TOMCAT : EN ESTA IMAGEN NOS ENCARGAMOS DE LA  VISTA HTML +  LA PARTE LOGICA DE JAVA
 
 ![image](https://user-images.githubusercontent.com/91564342/172461917-5c3653b5-35f4-4d50-99c9-6a79d5d51a1e.png)
 
@@ -33,10 +44,11 @@ EN MI CASO, SOLO NECESITO EMPLEAR MYSQL Y TOMCAT PARA EL CORRECTO DESPLIEGUE DE 
 
 ## 4.0 CONCLUSIONES
 
-Al principio he tenido algún fallo con el formato .yml pues había un carácter especial que no podía pareciar pero finalmente tod ha salido como tendría que ser
+Al principio he tenido algún fallo con el formato .yml pues había un carácter especial que no podía pareciar pero finalmente todo ha salido como tendría que ser
 
-## 
+## 5.0 ANEXOS
 
+https://hub.docker.com/u/rafa380
 
 
 
