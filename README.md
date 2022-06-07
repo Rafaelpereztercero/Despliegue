@@ -44,7 +44,13 @@
 
 ## 4.0 CONCLUSIONES
 
-Al principio he tenido algún fallo con el formato .yml pues había un carácter especial que no podía pareciar pero finalmente todo ha salido como tendría que ser
+#### Al principio he tenido algún fallo con el formato .yml pues había un carácter especial que no podía pareciar pero finalmente todo ha salido como tendría que ser
+excepto el subir la imagen pues me muestra el siguiente error
+
+![image](https://user-images.githubusercontent.com/91564342/172466201-a91a9f6d-e8db-41d1-a897-6fcae54785bd.png)
+
+#### HE REALIZADO VARIAS PRUEBAS PERO TODO APUNTA A ALGUN ARCHIVO CORRUPTO DEL SISTEMA, LA APLICACION ES 100% FUNCIONAL Y EL USUARIO ESTA LOGUEADO
+
 
 ## 5.0 ANEXOS
 
